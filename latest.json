@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.2",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "First release of the new BLD_LIVERY_TOOL: UV Extractor and a 3D Livery editor with a much faster baking engine, per-graphic show/hide, Dark/Light themes, keyboard and accessibility support, and Discord sign-in."
+  "notes": "Fixes the 3D Livery tab so you can click and place or move a graphic right after loading a car, without switching to Orbit and back."
 }
