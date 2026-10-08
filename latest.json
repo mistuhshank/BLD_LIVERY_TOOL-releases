@@ -1,5 +1,5 @@
 {
-  "version": "3.0.2",
+  "version": "3.0.3",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "Fixes the 3D Livery tab so you can click and place or move a graphic right after loading a car, without switching to Orbit and back."
+  "notes": "New app icon and watermark."
 }
