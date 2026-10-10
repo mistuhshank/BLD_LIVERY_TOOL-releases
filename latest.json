@@ -1,5 +1,7 @@
 {
-  "version": "3.0.3",
+  "version": "3.1.0",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "New app icon and watermark."
+  "notes": "Seamless wrap graphics and one-click updates.",
+  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.1.0/BLD_LIVERY_TOOL-3.1.0-x64.msi",
+  "sha256": "8C09D33300BE3FCEDB67D62EC685390A67F7F87DFBF127AB1140BD314D178D59"
 }
