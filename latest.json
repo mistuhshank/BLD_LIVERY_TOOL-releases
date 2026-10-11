@@ -1,7 +1,7 @@
 {
-  "version": "3.2.0",
+  "version": "3.3.0",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "Lock graphics in place so they can't be moved or changed by accident. New touch-up window to erase parts of the graphics before exporting (never the template or body colour). Mirrored copies can now face the right way instead of reversed. Export to... lets you choose where the livery map is saved. View buttons moved above the 3D view, size and stretch go up to 10, and cars using vehicle_paint3/paint4 now pick the right livery UV map.",
-  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.2.0/BLD_LIVERY_TOOL-3.2.0-x64.msi",
-  "sha256": "5ab5952b49586acf3f4ef6afd53c6ddf680cbf39a1ec2695895d4173cec478a1"
+  "notes": "Mod parts: add a car's bumpers, bonnets, spoilers and more (button or drag and drop). They attach to the right place on their own, hide the stock part they replace, switch on and off, and take the livery like the rest of the car. The UV Extractor can include them, or show every part for the entire UV map. New Pattern mode repeats a seamless tile over the whole car without stretching, graphics keep much more detail when scaled, and the 3D Livery tab has a new layout with the gizmo on by default and Move X / Y fine sliders.",
+  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.3.0/BLD_LIVERY_TOOL-3.3.0-x64.msi",
+  "sha256": "8a00cca3a615767a5b0e637cb13fd59badf46c43ea53288fed30f64a2bd52a14"
 }
