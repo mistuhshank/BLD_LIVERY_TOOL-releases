@@ -1,7 +1,7 @@
 {
-  "version": "3.3.0",
+  "version": "3.4.0",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "Mod parts: add a car's bumpers, bonnets, spoilers and more (button or drag and drop). They attach to the right place on their own, hide the stock part they replace, switch on and off, and take the livery like the rest of the car. The UV Extractor can include them, or show every part for the entire UV map. New Pattern mode repeats a seamless tile over the whole car without stretching, graphics keep much more detail when scaled, and the 3D Livery tab has a new layout with the gizmo on by default and Move X / Y fine sliders.",
-  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.3.0/BLD_LIVERY_TOOL-3.3.0-x64.msi",
-  "sha256": "8a00cca3a615767a5b0e637cb13fd59badf46c43ea53288fed30f64a2bd52a14"
+  "notes": "Pen tool: draw shapes straight onto the car like Photoshop's pen (click for corners, drag for curves, Ctrl for straight lines, points can run past the body's edge), close the shape and fill it with a colour. New Concept art: load straight-on drawings of the car and they are fitted and painted onto the panels that face each way. Wrapped graphics no longer distort on panels facing you, a Stretch view shows where curves stretch them, and custom colours are remembered.",
+  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.4.0/BLD_LIVERY_TOOL-3.4.0-x64.msi",
+  "sha256": "c275e2aedc177c3637138c48742e07754f49619ac93c2dd2cb3cfbf452065772"
 }
