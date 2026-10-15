@@ -1,7 +1,7 @@
 {
-  "version": "3.4.0",
+  "version": "3.5.0",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "Pen tool: draw shapes straight onto the car like Photoshop's pen (click for corners, drag for curves, Ctrl for straight lines, points can run past the body's edge), close the shape and fill it with a colour. New Concept art: load straight-on drawings of the car and they are fitted and painted onto the panels that face each way. Wrapped graphics no longer distort on panels facing you, a Stretch view shows where curves stretch them, and custom colours are remembered.",
-  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.4.0/BLD_LIVERY_TOOL-3.4.0-x64.msi",
-  "sha256": "c275e2aedc177c3637138c48742e07754f49619ac93c2dd2cb3cfbf452065772"
+  "notes": "A new layout: move, open and close every section round the work area (left, right, top or bottom), pop the 3D view or UV preview into its own window, a slim icon toolbar and a notification bell for updates and exports. New Shapes: 33 shapes with warp and skew. Skew any graphic on the car. Pen tool: Ctrl for straight lines, Alt to lock the angle with a readout. Named colour swatches, an In-game look with clear coat reflections, and the option to add the body colour to the export. Exports carry the BLD badge in an empty part of the template.",
+  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.5.0/BLD_LIVERY_TOOL-3.5.0-x64.msi",
+  "sha256": "bbf5252e0895b291ad331ea086f85042d56f735e1f5dc5a17d159446810ae697"
 }
