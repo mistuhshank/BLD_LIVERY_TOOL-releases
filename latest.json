@@ -1,7 +1,7 @@
 {
-  "version": "3.6.0",
+  "version": "3.7.0",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "A new Photoshop-style workspace for the 3D Livery tab: a menu bar, a tool rail (Select, Move, Scale, Rotate, Skew, Shapes, Pen) with its settings in a bar above the 3D view, a Precision setting that slows every drag, and one Layers panel on the right with eye and padlock toggles, drag to reorder, Ctrl and Shift multi-select, a right-click menu and a Link toggle. Export and project actions are icons in the top toolbar, buttons are clean green links, and values have drop-down sliders. The pen tool is much better: draw from a flat side view with no perspective, edit points and handles after drawing, freehand, fill and outline, mirror to the other side, grid, typed lengths, a live filled preview and Shift for a sharp corner then a new curve. Shapes remember their path so their points can be edited again later.",
-  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.6.0/BLD_LIVERY_TOOL-3.6.0-x64.msi",
-  "sha256": "a40432b0f4aae4d0d02b7c5964b0fc07aeeb13c58fe123d986b1190ed120cf99"
+  "notes": "New tools and a lot more control in the 3D Livery tab. Tools: a Brush with 21 brushes, smudge, clone, left/right mirror painting, saved presets and Alt + right-drag sizing; a Text tool with every installed font and Photoshop-style options, plus text that follows a path at its real size; Gradient and bucket; Eyedropper (Alt + click works in the brush, text and gradient tools); Path and Path selection tools (draw an open or closed path, or copy a shape's path to edit, for text to follow). Layers: blend modes (Multiply, Screen, Overlay and more), groups (Ctrl+G), align and distribute, combine shapes (cut, overlap, merge), outline and shadow with a live preview, rename (F2), recent colours, and an Edit > History window to jump to any step. Also: corner handles for scaling, grid snap and a points toggle, and an F1 list of every shortcut with a search box.",
+  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.7.0/BLD_LIVERY_TOOL-3.7.0-x64.msi",
+  "sha256": "6b184268c7ac5cdf71e1a86d1e0c53378a41ed682560f866b98b27e328c8a7ff"
 }
