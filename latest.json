@@ -1,7 +1,7 @@
 {
-  "version": "3.8.0",
+  "version": "3.8.1",
   "url": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/latest",
-  "notes": "A 2D view, geometric pattern fills that sit on the car's surface, and more tools. 2D view: a button above the view switches the 3D Livery tab to the livery map itself, with the UV template over it. Brush, eraser, smudge, clone, gradient, bucket, pen, line, text, shapes, pictures and pattern fill all work there, with handles on the selected layer and a small 3D preview of the car in the corner. Pattern fill: fill an area, or the whole car, with hexagons, honeycomb, shards, web, triangles, diamonds, circles, squares, pentagons, octagons, stars, sparkles, crosses, rounded squares, lozenges or chevrons. On the car the shapes are laid on the surface itself, so they are never stretched, never overlap, are never cut off, and carry on over panels and seams. Drag a box round the car to limit where the pattern goes. Pattern presets save your settings. Also: an Eraser brush that works on every layer (pictures, text, shapes and patterns), a Line tool for straight or curved open lines, letter-by-letter angle for text on a path, reverse italic, and a Change log button next to Settings.",
-  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.8.0/BLD_LIVERY_TOOL-3.8.0-x64.msi",
-  "sha256": "c58b0cbc6a131a5cddc4d0275f9526b24f5f9e589fbb4f464b2097a90fc5e4cf"
+  "notes": "Undo for drawing, and a cleaner closing curve. Pen, Line, Path and Pattern fill: every change to a shape you are drawing (a point, dragging a point or handle, closing, deleting) can now be undone and redone step by step with Ctrl+Z and Ctrl+Y. Closing a shape by clicking the first point and dragging now curves only the closing line; the first point and its other line stay where they are. Also: the brush preview shows in the 2D view, and Ctrl + right-drag resizes the brush there.",
+  "installer": "https://github.com/mistuhshank/BLD_LIVERY_TOOL-releases/releases/download/v3.8.1/BLD_LIVERY_TOOL-3.8.1-x64.msi",
+  "sha256": "fae15f7643009c96ffe693a66030ac8e536cf0bcd6b78d7426b10eac0f20722e"
 }
